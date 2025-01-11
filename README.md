@@ -8,7 +8,6 @@ This repository contains our solution for the Kaggle competition "HMS - Harmful 
   - hms-1dcnn+gru-2defficient-multi-train
   - hms-2defficient-pytorch-train
   - submit
-  - These 3 above were code that submitted
 - Details in PowerPoint
 
 ### Data Preprocessing
